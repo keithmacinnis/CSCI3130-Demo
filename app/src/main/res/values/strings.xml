@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CSCI3130-Demo</string>
+    <string name="input_message">Enter a String to be copied 0_o</string>
+    <string name="button_copy">Copy!</string>
 </resources>
