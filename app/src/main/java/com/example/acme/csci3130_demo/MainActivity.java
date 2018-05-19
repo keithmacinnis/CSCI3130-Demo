@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-
+//testing git
 
 public class MainActivity extends AppCompatActivity {
 
